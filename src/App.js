@@ -20,7 +20,7 @@ function App() {
 
     return (
   <div>
-    <h1>Hello Dogg</h1>
+    <h1>Hello Dogggggg</h1>
    <ul>
     {
       puppies.map((puppy, index) => (
